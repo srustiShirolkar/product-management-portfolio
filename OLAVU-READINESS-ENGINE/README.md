@@ -35,8 +35,8 @@ The workflow connects readiness checks, issue reporting, responsibility assignme
 ## Explore the Product
 
 - **Interactive Prototype:** [Launch Olavu Readiness Engine](https://north-olavu-readiness.apper.so/admin/ambulances)
-- **Concept Note:** To be uploaded
-- **Product Walkthrough:** Video link to be added
+- **Concept Note:** [Read Olavu Readiness Engine Concept Note](Olavu_Readiness_Engine_Concept_Note.pdf)
+- **Product Walkthrough:** [Watch Olavu Readiness Engine Demo](https://drive.google.com/file/d/1cCzoqpn0JGQHo3DojyWVt-TVhK3FvzbM/view?usp=sharing)
 
 ---
 
